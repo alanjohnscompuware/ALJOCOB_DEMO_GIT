@@ -131,7 +131,7 @@
     <stub:output listructure="../Structures/ALJOCOB_RPTFILE_EMPLOYEE-DTL.listructure#Tests/Structures/ALJOCOB_RPTFILE_EMPLOYEE-DTL.listructure">
       <stub:data baseType="listructure:structType ../Structures/ALJOCOB_RPTFILE_EMPLOYEE-DTL.listructure#EMPLOYEE_DTL" id="arg0.EMPLOYEE_DTL">
         <properties:properties>
-          <properties:property name="value" type="string">40C4C1D540D7C5C1D9E2D6D54040404040D5D6D9E3C8404040E2404040F0F761F2F061F8F9404040F3F140404040F8F5F04BF0F04040404040F04BF0F0404040F1F0F0F04BF0F04040F1F8F5F04BF0F0E84040404040</properties:property>
+          <properties:property name="value" type="string">40C4C1D540D7C5C1D9E2D6D54040404040D5D6D9E3C8404040E2404040F0F761F2F061F8F9404040F3F140404040F8F5F04BF1F04040404040F04BF0F0404040F1F0F0F04BF0F04040F1F8F5F04BF0F0E84040404040</properties:property>
         </properties:properties>
       </stub:data>
     </stub:output>
