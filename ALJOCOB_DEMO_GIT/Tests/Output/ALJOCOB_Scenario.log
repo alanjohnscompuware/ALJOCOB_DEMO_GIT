@@ -1,10 +1,10 @@
-19:37:41.206 INFO      TOPAZ            ***************************************
-19:37:41.206 INFO      TOPAZ            ** Execution from Topaz with options **
-19:37:41.206 INFO      TOPAZ            ***************************************
-19:37:41.207 INFO      TOPAZ            Using repository: false
-19:37:41.207 INFO      TOPAZ            ***************************************
-19:37:41.212 INFO      Engine           Test Scenario execution started
-19:37:41.213 INFO      Engine           Using context settings:
+11:03:00.787 INFO      TOPAZ            ***************************************
+11:03:00.788 INFO      TOPAZ            ** Execution from Topaz with options **
+11:03:00.788 INFO      TOPAZ            ***************************************
+11:03:00.788 INFO      TOPAZ            Using repository: false
+11:03:00.788 INFO      TOPAZ            ***************************************
+11:03:00.788 INFO      Engine           Test Scenario execution started
+11:03:00.789 INFO      Engine           Using context settings:
   Engine Version                : 20.6
   Environment id                : 192.168.96.130:16196
   Environment type              : Batch
@@ -19,21 +19,21 @@
   Codepage                      : IBM-1047
   Host user Id                  : HUK0320
   Use Repository Server         : false
-19:37:41.213 INFO      Engine           Setting variables from context and context data extensions
-19:37:41.214 INFO      Engine             id: environmentId      value: 192.168.96.130:16196
-19:37:41.214 INFO      Engine             id: environmentType    value: BATCH
-19:37:41.215 INFO      Engine             id: userId             value: HUK0320
-19:37:41.216 INFO      Engine             id: accountingInfo     value: 
-19:37:41.219 INFO      Unittest         Interpreting Unittest of module: ALJOCOB testscenario path: ALJOCOB_Scenario.testscenario
-19:37:41.785 INFO      Unittest         Using JCL skeleton to submit JCL
-19:37:58.030 INFO      CWCC             Sending Job execution request to Host 
-19:38:03.576 INFO      CWCC             Job execution completed with status:
+11:03:00.789 INFO      Engine           Setting variables from context and context data extensions
+11:03:00.789 INFO      Engine             id: environmentId      value: 192.168.96.130:16196
+11:03:00.789 INFO      Engine             id: environmentType    value: BATCH
+11:03:00.789 INFO      Engine             id: userId             value: HUK0320
+11:03:00.789 INFO      Engine             id: accountingInfo     value: 
+11:03:00.790 INFO      Unittest         Interpreting Unittest of module: ALJOCOB testscenario path: ALJOCOB_Scenario.testscenario
+11:03:01.614 INFO      Unittest         Using JCL skeleton to submit JCL
+11:03:09.176 INFO      CWCC             Sending Job execution request to Host 
+11:03:14.569 INFO      CWCC             Job execution completed with status:
   Job status     : COMPLETED
-  Job status msg : Job HUK0320A(J0157389) ended with return code: 0000
+  Job status msg : Job HUK0320A(J0157543) ended with return code: 0000
   Job name       : HUK0320A
-  Job id         : J0157389
+  Job id         : J0157543
   Return code    : 0000
   Abend code     : 
   Abend reason   : 
-19:38:07.898 INFO      Unittest         Execution completed
-19:38:07.899 INFO      Engine           Test Scenario execution ended
+11:03:17.129 INFO      Unittest         Execution completed
+11:03:17.129 INFO      Engine           Test Scenario execution ended
